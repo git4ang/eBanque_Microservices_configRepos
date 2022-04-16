@@ -12,3 +12,4 @@
    - [x] customer-microservice.properties
    - [x] account-microservice.properties
    - [x] operations-microservice.properties
+   - [x] user-microservice.properties
